@@ -1,6 +1,12 @@
+<div align="center">
+
 # Hi, I'm Chetan Patil 👋
 
-**Software Engineer | .NET | Angular | Cloud & AI Engineering**
+### Software Engineer | .NET | Angular | Cloud & AI Engineering
+
+**[🌐 Explore my portfolio →](https://chetan1237.github.io/)**
+
+</div>
 
 I build business applications and APIs, with a focus on reliable backend systems, practical problem-solving, and clean, maintainable code.
 
@@ -31,7 +37,10 @@ I have **3.6+ years of experience in .NET development**, working with C#, WPF, S
 
 ## Connect
 
-- GitHub: [@chetan1237](https://github.com/chetan1237)
+- **Portfolio:** [chetan1237.github.io](https://chetan1237.github.io/)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/chetan-patil-bb839a1b1/)
+- **Email:** [patilc9822@gmail.com](mailto:patilc9822@gmail.com)
+- **GitHub:** [@chetan1237](https://github.com/chetan1237)
 
 ---
 
